@@ -1,4 +1,4 @@
-/*package com.gain.java.knowledge {*/
+/*package com.gain.java.knowledge. {*/
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
